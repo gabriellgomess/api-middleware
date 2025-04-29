@@ -1,6 +1,6 @@
 name: Erro na Documentação
 about: Reporte um erro ou imprecisão na documentação.
-title: "[DOCS] Breve descrição do erro na documentação"
+title: '[DOCS] Breve descrição do erro na documentação'
 labels: documentation
 assignees: ''
 body:
