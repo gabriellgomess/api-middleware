@@ -1,0 +1,21 @@
+name: Erro na Documentação
+about: Reporte um erro ou imprecisão na documentação.
+title: "[DOCS] Breve descrição do erro na documentação"
+labels: documentation
+assignees: ''
+fields:
+  - type: textarea
+    id: location
+    attributes:
+      label: Localização do Erro
+      description: Onde na documentação você encontrou o erro? (URL, seção, etc.)
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrição do Erro
+      description: Qual é o erro ou imprecisão que você encontrou?
+  - type: textarea
+    id: suggested_fix
+    attributes:
+      label: Sugestão de Correção (Opcional)
+      description: Se você tiver uma sugestão de como corrigir o erro, por favor, inclua aqui.
