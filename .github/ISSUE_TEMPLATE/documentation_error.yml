@@ -3,7 +3,7 @@ about: Reporte um erro ou imprecisão na documentação.
 title: "[DOCS] Breve descrição do erro na documentação"
 labels: documentation
 assignees: ''
-fields:
+body:
   - type: textarea
     id: location
     attributes:
