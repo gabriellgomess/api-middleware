@@ -65,6 +65,10 @@
         "test": [
             "@php artisan config:clear --ansi",
             "@php artisan test"
+        ],
+        "test:api": [
+            "@php artisan config:clear --ansi",
+            "@php artisan test tests/Feature/API"
         ]
     },
     "extra": {
